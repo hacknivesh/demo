@@ -1,4 +1,4 @@
 # demo
 first git repo
 <BR>
-author = nivesh
+author = nivesh bhoir
